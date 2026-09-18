@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large raw dataset
+data/twcs.csv
+
+# OS / editor
+.DS_Store
+.vscode/

@@ -1,0 +1,201 @@
+id,intent,query,top1_similarity,top3_average,top5_average
+828308,return_refund,I have already given all the info as asked by link sent by Akshya. Ask your courier to collect your return package from my house.,0.26209606107693784,0.25657069565645846,0.24326041227832537
+980709,order_delivery,With that response I guess you didn't read my message clearly. IT WAS NOT LEFT IN MY SAFE PLACE!!!! It was left on top of a bin!!! I do have,0.4327750272154788,0.38530104735194465,0.3570945311075238
+80585,general_feedback,It has essentially looked like this every day since Monday...,0.4328408292532684,0.3566582993335145,0.3298773667341692
+234828,payment_billing,I tried emailing and on the phone it’s on 1 account they don’t know why I’ve been charged twice but now I’m just without prime😡😡😢😢,0.36187455937721674,0.31013785279148504,0.28820510463529886
+2663581,general_feedback,R U saying that seller has right to increase MRP and sell products?,0.3960210246007001,0.38369193091646564,0.3690885692982971
+2499119,customer_service,I have already responded to the correspondence I received like couple of hours ago .,0.5209976731426149,0.49449553945199737,0.46627944497957763
+2287987,order_delivery,"chuck it, am sick and tired of all this shit around. I wanted to give my aged father a BP monitoring machine which also couldn’t reach. Am f*** bothered now when it reaches. It didn’t when it was required",0.31294786015981435,0.2680364803283313,0.24214008953553848
+2881835,return_refund,Fast delivery at the cost of damaged goods is not complete service. Will be returning the product via app.,1.0000000000000002,0.5330259022425109,0.41915086276441793
+96803,general_feedback,#LGQ6AppQuiz still not yet listed in your link.,0.6069444939983553,0.4839447108046488,0.41390522098851834
+485248,customer_service,Can u atleast provide your customer care number so that I can contact them ?,0.6091811796589293,0.5460412418946222,0.4960664836195929
+1067744,customer_service,"Wat more detail u want me to fill here? I have filled these thrice, hw much more u would fool me wid ds generic replies? U looters, u cheats",0.36871148455951064,0.3239682425473801,0.2959194823799719
+239435,order_delivery,UPS for all 5 packages :(,0.470756428735752,0.43014105599902047,0.39763303139867007
+485366,order_delivery,"No, your delivery team are incapable of just leaving a parcel. Ive has 3 different ideas from your support team but none have worked. The deliveries are just given to the nearest neighbour despite requests",0.2478147759811699,0.22931971964012146,0.2226853157362591
+832716,customer_service,Yes as per my earlier message I told u people that I have replied on that mail as well,0.5151191292524786,0.5151191292524786,0.5151191292524786
+503398,order_delivery,"Until you control shipping, doubt there’s anything you can do other than just not promise dates until after the holidays. Of course shipping the in stock product when I ordered it and not three days later (on the original delivery date) probably could have helped.",0.28278131146432356,0.27218546568923646,0.254866571606739
+549546,return_refund,"I won’t know until it’s opened on Christmas Day-I don’t want to open the inner box to check as it’s a gift, would I be able to contact for return still if it is damaged? I have taken photos of the damaged box",0.33821772983115267,0.31091273529940205,0.2868689442718205
+758938,customer_service,"I am messaging you the details,see if you care enough as you say .I am sick of filling these forms",0.5476972023473999,0.48942290171343433,0.4258489712258756
+985150,general_feedback,No. I will do that. Thank you very much.,1.0,1.0,1.0
+469406,customer_service,"How could you called itself world's most customer centric company, shame on you guys, There is no proper customer support #UNINSTALLAMAZON",0.5298289570149886,0.4973683955392751,0.4881443914624298
+815491,customer_service,think u should jump in to get a happy customer your team is not even giving me a call neither want to resolve the query,0.4136083221208891,0.3496230108294098,0.3278228601453606
+898373,customer_service,I m nt sure if u ppl hv brain to understand d problem summry. Read again& call me.,0.44453714140832623,0.36612670747335435,0.3246559573472476
+2133266,order_delivery,I ordered 3 sets of Xbox game codes and my account says verifying. They was ordered at 5pm yesterday. Been told 4 hours and still not here.,0.32305336781487637,0.2696075786070089,0.2589184207654354
+472331,prime,It's with I was using my free trial of Amazon Music when this came to my attention.,0.4539329448459485,0.445205080840324,0.42458962572359543
+37607,customer_service,Have concted your cc 10 times. You have my details. Filled this form also. Horrible experience,0.526969048792961,0.4452239165798338,0.42601352892837285
+793899,order_delivery,Can i have a ETA from your end for the resolution or you just making fool of your customers. Full money paid & no product received.,0.40271700926182363,0.37593127998260184,0.36145810209251905
+619101,customer_service,Nah u don’t understand the customer plight. Else d issue wouldn’t have been left unattended for dis long. So stop putting a mask of concern,0.40197516212456275,0.33420240867419365,0.2919057628167715
+182998,order_delivery,"I have, nothing there I'm afraid. I've also check the msg centre. I don't have an email confirming the preorder either which is odd",0.3155525610002875,0.2709333877270513,0.2558515584493377
+1727579,general_feedback,he's lying . I've not sent him any product 😏,0.5712187219254827,0.4933349804004279,0.45714026984665723
+1889496,payment_billing,I am a business account holder. Not all your sellers provide GST invoices. I request you that Cloudtail provide GST invoices.,0.4485727175450903,0.35165841087298233,0.32089080831631517
+1733924,return_refund,It’s sold by amazon I have the order number . How do I get a replacement sent to me etc ?,0.5532213282269083,0.524619484645056,0.5188991159286855
+897115,customer_service,I have replied to your mail as well.,1.0000000000000002,1.0000000000000002,1.0000000000000002
+1137332,customer_service,Earliest? When? I want a resolution right now,0.5062391226207132,0.46361457572385767,0.437630308622992
+294893,return_refund,"The wrong shipping label was sent to me for a return. Although I returned the correct item, I was charged for not returning the item.",0.27500018362451284,0.2614158348339987,0.25441038024885937
+1144975,customer_service,I have the number for your head office in slough and I'll be calling them tomorrow!,0.6543515347310939,0.44180297124736323,0.38320794078936815
+1258971,order_delivery,2 TIMES THE PRODUCT IS NOT DELIVERED WITH FALSE PROMISE? 12 DAYS WAITING..CAN YOU BE MORE ACCOUNTABLE,0.4510771520888357,0.36972447292450505,0.3394500491147581
+2292288,return_refund,So it’s been a long case but the issue I’m having now is that I was told by a supervisor over the phone last week that I would get my money back From my order and a say goodwill gesture I would have the same amount of money put into a gift card,0.30520055863084483,0.29602462770032734,0.2864144667479763
+2142449,order_delivery,"it doesnt appear so, but ive been having the package drying. im dissapointed that i got a notification so late after delivery though",0.29732623963010607,0.2781414819330192,0.2628278371558169
+1243789,general_feedback,Thank you for your answer ;),0.816605109246736,0.5703582867262273,0.5211089222221256
+972781,general_feedback,Hahahahahaha Your services are pathetic specially replacement service And your app is amazing in when it comes to lag,0.25082660530870265,0.23851388976239543,0.23204989381530844
+678633,customer_service,Has a 'member of your team researched this issue for me'? 1 month and counting #amazon,0.4104123842004683,0.33079154689782586,0.3066883661675114
+1623394,order_delivery,"20+ days passed, 10+ mail exchanged, still No Delivery.Please Go back to America. Out for Delivery for more than 10 days. #Worstexperience",0.45091962812255637,0.3947393595100126,0.3650954627724564
+1051898,customer_service,It's been very stressful 4 me and i had mentioned clearly to customer care that if issue ain't resolved 2day then i am gonna file n FIR.,0.30020036903440644,0.28492825650274706,0.27223406417817353
+2113669,order_delivery,Mines was shipped like this as well.,0.3797979816311875,0.3494944438638876,0.3346850119650639
+2396338,product_technical,"Yes. I have wifi connected, I've restarted, I've closed out and re-opened. Nothing fixes it. Like I said, everything else works perfectly but the web browser, which has been enabled, and says try again later and nothing populates.",0.3779535979450682,0.3423399417775423,0.31964276437957906
+1298936,general_feedback,"Thank you. I already got the answer to my question. It was just the process that was unusually bad for Amazon. Just a glitch, I'm sure.",0.3636589068971536,0.35263785712248197,0.3350900938922639
+2451228,general_feedback,before stolen mail & the metal monstrosities they were brought to our doors,0.378447975533272,0.332669840760172,0.3128853723975217
+1137450,customer_service,From past 3 days your support team is asking to wait till end of the day. It seems there is no end of the day for Amazon,0.48781974901202824,0.41719146583928546,0.39529661116289494
+2466106,order_delivery,Received two orders that still do not show up on my Amazon,0.5560988419183818,0.41067809837065683,0.37688954495703025
+2584143,order_delivery,Not yet shipped,1.0,1.0,1.0
+2527443,order_delivery,"7 DAYS since your last unsympathetic reply. Where is my money, or my book?????????????? THAT is why I have always maintained Flipkart is far ahead in terms of customer service! I stand vindicated",0.2556874781237593,0.2534401753337474,0.2417415518204781
+364653,customer_service,world's wrost customer services company poor reply on Twitter also,0.5012316525183526,0.43225809704112894,0.3916453030224022
+1264421,order_delivery,Please check on my order 171-5775155-8517954 and tell me the status.,0.541179003608917,0.516196705296592,0.49540510683075134
+2745968,product_technical,OK I just found out why the parcel wouldn’t go through the door. In what way is this packaging OK?,0.4116658811577431,0.4116658811577431,0.4116658811577431
+284044,general_feedback,Okay... Shall I delete that tweet?,0.7694424528274775,0.6785271161316819,0.6370998973228418
+2161840,customer_service,I’ve had no email from you,0.56290286035936,0.5312801015481406,0.5072716357094952
+63996,customer_service,yes i have provided the details on link provided #amazonfails,0.7404488564598832,0.6837113855535475,0.63764846108707
+2781926,order_delivery,"Which I get, but buying an Amazon Product from Amazon... that should probably not have three days of processing time. I’ve got a battery charger — ordered the same day — not sold by Amazon — arriving on Thursday. Just seems weird. Thanks for the reply.",0.28446372079656806,0.25874036366669345,0.2535956922407185
+257182,customer_service,I got an email from customer service. Thank you!,0.7233081092265499,0.590204562109048,0.532018453915411
+2216869,customer_service,Details shared in the mrng any update please?,0.6907178974187446,0.6907178974187446,0.6907178974187446
+1929431,product_technical,I have tried that before I tweeted keeps saying error !,0.38484024722223636,0.362090701696054,0.3463310216300054
+160412,account_login,"They suggested resetting my password. But the original issue was that somebody else was using my account to make purchases. It was suggested that I close my account, but accounts are linked to email and I don't want to change my email for a new account",0.2898065855212432,0.26519484789111203,0.24521633631583625
+2084546,general_feedback,Awesome. Thanks,1.0,1.0,0.8584765450743154
+739063,general_feedback,Thanks for the reply! I tried it on .nl .de and .com. Got the one on .com ;-),0.569214507663431,0.5585587962392742,0.5249018672175426
+619090,customer_service,There is no email from the social media team.. stop killing time by sending such repetitive emails of reply sent. It u truly intend give a concrete reply..,0.4963886025503551,0.4625527121419941,0.4255148800332081
+1540475,general_feedback,"Never mind you can't solve the issue! My remark stays "" is a piece of shit"" check my chats with your guys",0.40518541159817617,0.352632291891692,0.32265840915527827
+288052,customer_service,"Yes, I have looked in there and nothing, requested it 2 hours ago",0.5851564372114755,0.513464355075882,0.48128165518009575
+1079380,customer_service,I have already shared detail in your mail correspondence.,0.6402320599554052,0.5752701032646053,0.5390946789722533
+283110,customer_service,Can u plz tell me ur policies for customers if customers is having problem continosly.,0.39466678873974026,0.3795144304424678,0.3751004753506101
+34563,customer_service,It's just waste of time as I have already done it before but no results. And I don't want to waste my time again in it.,0.639143105128948,0.6343849876962464,0.623363499042515
+1224547,customer_service,"Yep, & get no reply. I'm sick of this happening, I spend so much money on amazon it's ridiculous. It makes me want to shop anywhere else.",0.264599740664486,0.25301194074371075,0.24422545780917884
+2663721,order_delivery,Why so much delay??,1.0,1.0,0.9093330358058976
+1347568,product_technical,Should that be in the main sidebar menu? I don’t appear to have a Routines entry.,0.2979937191948623,0.2901847214247009,0.27844018371076906
+819495,general_feedback,Will do 👍 thanks.,1.0,1.0,1.0
+812362,order_delivery,No I'm sorry but that's not good enough. YOU put the sale on & knew how much stock you'd have to move. We shouldn't suffer because you couldn't be bothered to get yourself organised. We ordered this because we need it & paid for fast delivery. You're being complacent & dismissive,0.2433169794276016,0.23028409251002246,0.2183096068431781
+816152,product_technical,"Correctly labelled, but the episode shown as it opens with ""Previously on Outlander"" scenes that are from an unshown episode",0.40333490068018274,0.33280747792658555,0.2949363574219277
+1135116,product_technical,I think the issue is just on streamed content but I can’t be 100% certain if downloaded stuff is fully HD as I have nothing to compare it to,0.3065360477233218,0.26464074860235814,0.24202216896131432
+456533,order_delivery,"Yes it was 2x echo dots. Which have not been delivered as promised or agreed. When I challenged it, despite knowing there is a phone record of the agreement - I am told it was for only 1x echo dot but the original compensatory offer will not be upheld",0.3526303674386412,0.3327445435235527,0.3190922548215857
+1157944,order_delivery,I'm crippled. I was waiting for them all to be at the mailbox before I called for transit to pick it up:,0.3922824366632531,0.3762332233663947,0.3527046177293892
+1710385,customer_service,This is app screenshot so find link urself,0.42485279089227873,0.4039336573691868,0.38860204892233174
+2758973,order_delivery,Last update was I had to cancel the order since I could not get guaranteed shipping Never again amzl log,0.4240770085172047,0.4240770085172047,0.42407700851720465
+1136219,order_delivery,I am going to social media and media fr fake commitment ur side. U can say where is my order. 405-8158996-7018755,0.5146751494860087,0.48546697639013225,0.45316662740312746
+1166665,order_delivery,The most recent is that it will be here tomorrow. The only other update is that it left the facility Monday 10/23,0.501289031213084,0.40788808781174085,0.3505031946537292
+1735581,order_delivery,Can you track where my parcel is actually held?,0.35157754648491735,0.3233405508053633,0.30667279847291484
+427382,customer_service,You're supposed to call me. I filled out a form. Read through the thread.,0.7698747405458883,0.6331485332005339,0.6058032917314631
+818202,order_delivery,Consistently. I would really prefer actual dates to “guaranteed” ones. No matter the cost.,0.30303100062155286,0.2927990177083557,0.2825363405799395
+1288194,general_feedback,"A heavy box was used to ship a $4 Pop figure in the same week, but a $70 special edition game gets an envelope?",0.37703916586425335,0.30670490989218985,0.2769718093979385
+529206,general_feedback,I contacted customer service team and got it resolved. Thanks.,0.4838823200673532,0.4759845564876874,0.45919266946048387
+65825,customer_service,"I would *love* that. I inquired about this a few months ago on your chat support and was told it was an impossible request. I will be in touch tomorrow to arrange it, thank you.",0.2825890958676981,0.26105180868408123,0.25309333122791766
+918891,general_feedback,"Not that great buy high values item from U & till all is OK it’s the gud reviews for AmazonIndia,But if any issue den run after manufacturer",0.2639950674887609,0.24119627445311062,0.22650170155371202
+2924455,general_feedback,Thanks. I have sent an email,1.0,1.0,1.0
+1046142,customer_service,i don't see any email for today on given link and this process is more painful than speaking to CS agent who are of no help.,0.26392202233909023,0.24637140717590122,0.24069876720483316
+2759409,customer_service,Here's the proof..now you guys can't claim that I haven't filled up the form like u claimed earlier...and to tell u one thing..I don't need to fill tons of forms when it's actually your fault...this is kiddish assholes,0.3006283790034794,0.2820265952481796,0.27830623849711966
+249907,general_feedback,Have spoken to your CC.. thx for everything.. my 2nd sentence is saracastic,0.4372314049214359,0.4182302190015615,0.3912552924084616
+493275,customer_service,I told you I have done that. Hope it’s clear.,1.0,0.7146496750062877,0.5814633570008224
+1631343,general_feedback,Buy psv right now.its a pannindia film.,0.45586279382444383,0.44152353073147005,0.42500401964101303
+2296047,general_feedback,EIVOTOR is the seller and manufacturer,0.8553003760728219,0.7166046663106628,0.5770287611483224
+26933,product_technical,It’s not recognizing the name of the podcast (Slate Presents Lexicon Valley) which can be found on Spotify. Says “I can’t find songs by...”,0.3462091234808531,0.32080504942121735,0.29675452104868766
+2922537,order_delivery,"2/2 They blamed the carrier. Now they're saying tomorrow, and then offered me an insulting $5 for the trouble. I just want what I purchased to be in my apartment so I can use it!",0.2764739947398412,0.26896185698450487,0.2606288956241011
+1350042,general_feedback,yes it was Friday the 24th at 8pm,0.3826518127027199,0.36997992227569676,0.3624552552886692
+544422,order_delivery,"According to UPS, the truck was not processed when it arrived in Jacksonville on the 28th. It was not processed until today. It is scheduled to arrive on Tuesday.",0.36695440811209185,0.33361543158510215,0.3054977943431975
+388796,customer_service,I have tried each and every way to communicate the issue to Amazon but no body resolved the same. Frustrating service from,0.3144300541811199,0.2998010480127771,0.2741852434672015
+1177168,return_refund,"I already called, they're sending a 4th one.",0.4865734772550013,0.4847349159730057,0.47939756837545416
+1661965,order_delivery,And now after being undeliverable... it is delivered... what on earth is going on!! My email account doesn’t know which way is up!!,0.32753034463515385,0.26355119578175795,0.23762695237347184
+2935153,customer_service,I appreciate the confidence you kept in cust serv but unfortunately there is nothing of that sort. I checked all my folders including spam for the umpteenth time now to find no response from your revered #Accountspecialists who I even doubt if they actually exist,0.3576179141747664,0.29924621363696585,0.2816002194235044
+748698,customer_service,Ur emails says to wait fr more 24-48 hrs..i assure if i wait that much it will go on all the social media.,0.45721107249902554,0.38966943423354294,0.3620657472639864
+179708,order_delivery,Guys what's wrong..again my order delayed,0.6463535100214748,0.48586262163796734,0.4388972316994792
+2888239,customer_service,"Hi, they told me to wait for dispatch and return it and go buy from . As he is the supervisor and one step ABOVE customer service head office.",0.3609879878269554,0.31319403518922917,0.2872608774053787
+485257,customer_service,I have no idea who sent this. We only have the Amazon Prime tape and your scanned address label. Can I DM you a pic of the label?,0.3460983934069628,0.3171869613603942,0.2979623504578527
+888307,return_refund,"Yes, it asks if I want to replace with other stuff that I purchase... Also, by the way, I bought the insurance and can't find the policy for it anywhere...",0.425658646703403,0.3638773980769144,0.3268439694152957
+2663768,order_delivery,And I need it this week but I don’t know if it’s coming or not but if you guys cancelled it I would like you guys to fix it,0.41851793191018055,0.3666840915904063,0.3306079787127899
+543837,order_delivery,"They tried to convince me that the order was in Houston. After getting past that hurdle, I was told the order can’t be replaced because it was not in stock. I was then told that I would be given a gift card. The rep is to call ups to determine the status",0.2913114410243651,0.2686055172450664,0.25600857167184854
+866169,customer_service,"hey, already had a tweet come through, eager to sort the problem! Also just a heads up, I got a DM from this account, this legit?",0.3208166848958418,0.29133884681958205,0.28297466842274216
+735000,order_delivery,Twice. At this point I cannot be bothered waiting for a 3rd one to ship and never arrive. So I got a better deal elsewhere.,0.42688220225706497,0.38964980759866585,0.355235167954176
+608086,order_delivery,What is the benefit if one has to wait fr 3 days...why shud one go to this type of mental harassment,0.5380062184845914,0.48485222032689124,0.44294304409000784
+1177317,general_feedback,"I’m in the USA so I assume,",1.0,0.809747959794637,0.7656531313284891
+631576,customer_service,I have already been through several processes. I have created and received emails and also just spoke to someone over the phone. I am appalled by the ‘service’ of Amazon and will be sure to tell everyone not to use them in future!,0.43154277124053897,0.34847081764130144,0.3176269746025948
+2971967,general_feedback,I have to ea my dinner I worked 9 hours and just finish a 3 hour class,0.42380688061618554,0.3199188672751541,0.2868678327056577
+981449,payment_billing,thanks. what do you mean by issued by SBI. how to check that ?this card is listed on SBI card website.please clarify,0.4707677087688075,0.4480698836610752,0.4164620157372897
+1227278,customer_service,Plz check my profile and address . Anil rout .nh55 turranga.angul mob 9937066505 pin 759123 and 759122. i am not satisfied with your answer,0.5950343657694322,0.43280010205747305,0.39523497910170724
+180839,customer_service,And what resolution check and where check have sent them 1000+ email. Wtf moment :(,0.4465339175463962,0.4146588395247868,0.40828382392046497
+2335822,product_technical,I can’t see that option. All I can get from my home button is this,0.5214487150888271,0.4451720547590449,0.41377833227448385
+665571,order_delivery,"Yes. I'm more concerned about the £721.38 order I was promised by now that you haven't even dispatched. Sold through Amazon, not 3rd party.",0.47699019958393374,0.4218311902538116,0.3991254437794325
+311051,customer_service,worst service by you,1.0,0.9316402980131954,0.8562833255688952
+1190248,return_refund,"I've replied to mail sent by your team, no response from your end, still waiting to know why refund is not initiated in full at one go",0.3955197365294678,0.37502427836814495,0.3686431647745102
+118747,customer_service,There was no way to reply to the email. This is for case 4672816421. We were promised a call back but never received one.,0.47527986138902967,0.4218535297167996,0.4026549861956168
+1580416,order_delivery,"Four hours remain in this delivery window. It was taken from the facility at 10:47AM, previous deliveries have occurred no later than 1:50pm",0.28154548341206664,0.2592012814454372,0.24372473883906015
+1236253,return_refund,One thing I will say is Amazon's staff is great and trying to help. Hopefully we will get undamaged replacements this time!,0.3750296230883051,0.35014575815856636,0.32076932124799773
+1100388,return_refund,"I already did and will get a refund for the missing half and half, but I still have to dry clean the soiled clothes, clean my soiled shoes, and mop the floor, as well as spot clean the wool rug. NOT happy.",0.2835636230611175,0.26518006436744285,0.25459339073497733
+2918687,order_delivery,It’s not even showing it as shipped . Any reason for that ?,0.4284975204010987,0.39898844765109526,0.3821710449117656
+2663212,general_feedback,I’m using it in India. I don’t mind using English-US or English-India.,1.0000000000000002,0.5967388619409909,0.5088802614396164
+2923468,order_delivery,"No email or anything. After 8pm, the time it said it would be here yesterday. I went into my account. It said yesterday after 8pm, the package would be here by today or Wednesday. I really do miss when it came by USPS. That was more trustworthy.",0.3659903216742349,0.34618661525702404,0.33259426401481706
+126834,order_delivery,You delivery person said me to through mobile to meet him in the market to receive my purchase but he didn't come to my address so why I also told him to go back I don't need the purchase and I continued trying to call your cust. care...,0.29540197282898617,0.27586734906520605,0.2560744186227558
+2469408,order_delivery,"All reported, waiting on refund but just want goods which I’ll have to get elsewhere. Always issues with man & van deliveries, different drivers every time, don’t know the area, sometimes deliver to random address or mark as ‘handed to resident’ and the parcel never turns up.",0.30329604688150236,0.29014864556555237,0.2875191653023624
+2447421,general_feedback,No problem. She called back minutes later and apologized. Thanks for looking out. :),0.49687481263658023,0.4156225482382761,0.3888844546702048
+2607030,order_delivery,Yeah I have all I keep getting a refund I had a drive to some random person’s house last week to get my package that was delivered to the wrong address because your delivery guy couldn’t find it and he just dropped it off at any house,0.3303595299706813,0.31910457122601693,0.3052029619578927
+1420059,order_delivery,Will follow up shortly. To sum up: My order was incorrectly delivered to address of someone wondering where theirs has gone to.,0.3078170720337079,0.30317217598729124,0.2963768342519242
+987368,customer_service,I don't see any reason. Pls point that out.,1.0,0.584967941628581,0.477230043126516
+2721748,customer_service,I have given the reference number. You should have reported it yourself. This is very poor customer service.,1.0,0.6714533936745494,0.5691585459596159
+2869522,return_refund,No thanks! You should have just left the package. It’s an overnight. Now I’m gonna return it.,0.521099871238446,0.48891820893921434,0.43856294109999033
+500775,order_delivery,Amazon Logistics were unable to deliver my parcel today as they were unable to gain access to the front gate. Hmm! not sure what gate they encountered. useless couriers.,1.0,0.5430941399778356,0.4312789273182931
+1684466,customer_service,I have shared the details. Pls contact me asap and solve my problem.,0.5829681440405975,0.4967448689416228,0.46542226929772523
+1240419,order_delivery,"Long story short, I was told they couldn't respond due to it being busy on weekends than 2 days later it shipped in the middle of the night and immediately after they email me saying how if the carrier can't find it I would have to refuse and ship it back.",0.25800308578923536,0.24731822673564108,0.24061888039091617
+2299483,order_delivery,"No it doesn't, it refers to 79 quid to get next day delivery And you can't manage your obligation,,,, don't give me small print!!!",0.37150984717495983,0.30915650011047974,0.2953836424967897
+90202,customer_service,I received nothing in spam and there was no message from the operator. However I received your message at 1am - 8hrs after my enquiry. I don’t understand why your operator couldn’t do this for me. Many thanks for your assistance.,1.0,0.6008748236125072,0.5033653204023681
+2883362,return_refund,Can u just refund my money please,0.7270738689100908,0.6846726872645496,0.6301903177936123
+2683475,product_technical,"Website on my PC. Clicked the Track button which used to show your info and the carrier's number, but the layout is way different and the number isn't there.",0.26749674845512383,0.26749674845512383,0.26749674845512383
+2834149,general_feedback,"I ve already done this. Nd let be now, i have lost hope on you guys. 🙏🙏",0.60742699024249,0.5578469606891221,0.48510062580339985
+1232079,general_feedback,Yes sir ^KB for my Apple iPhone SE.,1.0,0.7318852829597446,0.6391040597355782
+1565140,customer_service,I just want to speak to a person that does not respond with generic cut and paste answers.,0.3783683198754254,0.3520942011160269,0.3262081040862525
+2460001,order_delivery,"No actual reason why it was delayed on email, delivery guy was outside my house for 10 mins looking for package and I approached him and he said your package isn’t on this truck .",0.31570220399087234,0.2697718996144595,0.24697928669672384
+919435,customer_service,Finally i get a response frm ur team that ur concern is handled by executive team n they r best. Whn ur E team said thy dnt 1/2,0.36334833346678824,0.33077920907745045,0.31111134417199815
+1188197,return_refund,"Apparently, I'll be refund—I won't get my time back, sadly. I've logged a complaint, but wld love to know why you failed to deliver, twice!",0.25331399853237535,0.23704822413259755,0.22558817816587684
+409323,payment_billing,"No, that was how much you owed me.",0.5700779217298433,0.4541924814826348,0.3234961630339991
+360703,order_delivery,Yes ... 3 days ...Tracking #: 182110389807,0.6678143073198819,0.6678143073198819,0.6678143073198819
+1188563,order_delivery,even that was done on Monday night. No change in status,0.551672652512688,0.5236040317899029,0.4496937848234099
+1511976,order_delivery,That it's heading to a local Amazon shipping center to than be delivered by local carrier.,0.3384323740178077,0.33751370225782124,0.3320121802137822
+281426,customer_service,"I've been rung about 15 times today. I didn't contact CS. I have now spoken to someone and the calls have stopped, thankfully. Thank you.",0.28008233709322616,0.2774998072638124,0.27169447544221026
+1818235,order_delivery,I just asked them why me? Because same order of my friend got dispatched. What their reply was he is lucky. Damn such an customer service.,0.3159628323988902,0.28341799179403576,0.2679676408682391
+1589990,order_delivery,"It worked fine for the other order I placed. Just the issue with this order, not an app/device issue. Thanks anyway!!",0.32397138777105083,0.30619102466607834,0.27916569871394986
+2435678,customer_service,Let the public know about your services.. That is my main motive,0.4334442122149157,0.4237401312283386,0.41224103036290727
+876964,general_feedback,only you make promises and nothing.,0.6163865743256399,0.47143648094123963,0.41821062028622896
+349358,return_refund,Are you going to refund my money or not? Refund it asap.,0.7135944078335945,0.6578153245673729,0.6012656968700985
+657888,order_delivery,One of my packages was delayed by 2 days last week and nobody at amazon knew why it was delayed and it was through amazon logistic,0.3093739810825798,0.30226495309035956,0.29503969981465433
+275498,customer_service,Well it is already out there. Why am I filling this form? i don’t see any point if the feedback is going back to amazon.in. Already sent thm,0.42806569193049976,0.3469277228925422,0.32481318254729247
+910377,order_delivery,All day green line has been just above the arrival dot. Now its gone back up!!!!!,0.34959321201907095,0.3177829976850972,0.292123822074459
+612697,customer_service,It was online and all we got was an email saying it wasn't possible and to contact customer services.,0.3913651570538267,0.35287118751239327,0.3365191827774042
+1665286,order_delivery,Please solve my problem. I booked the product to give it as a Gift.,1.0000000000000002,0.6709498266230748,0.6051397919476897
+1672997,general_feedback,I’ve attempted to do this.,0.5082786216611894,0.4618648406893657,0.4444505364951268
+1511915,product_technical,Both my iPad and my iPhone and my wife’s iPhone and our desktop will try clearing the cache and cookies. Will that fix the app?,0.5502620400847061,0.5085675339872832,0.46157965911477516
+2603082,general_feedback,Go to hell you loser you guys are good for nothing i am going to cancel the order and ll never return to shit bullshit website I am totally fed up with this website..,0.32410220154826097,0.3014617748587158,0.2897188391651415
+1014700,customer_service,Courier guy is misbehaving like gunda over phone call omg amazon hire such blunder who can harm us latter,0.32171408547485153,0.2834891730163296,0.26326697518496056
+2888204,order_delivery,Work on what ? I have no information about my order My 63000 Rs stuck with you people I think you guys don’t care about your customer at all,0.3186563446781492,0.29694961106150697,0.2866210458255349
+56930,prime,"I will. Last time, I had asked to have my Prime acct. flagged to use any available alternate carrier. I'd rather have your own drivers, tbh.",0.3815135669265889,0.30932766120794214,0.2867886932803728
+2612223,order_delivery,It says tomorrow but I hadn’t even thought to check because the point of a pre-order is that you got it on the day of release no?,0.3894343480302145,0.36072967591531785,0.3470181931290136
+759027,order_delivery,Arrived after I left.which does me no good as I had to purchase replacement item. Which I specifically asked your person if I’d need to do,0.305817245370983,0.2861842891852788,0.2579330930717286
+1606840,return_refund,"i mean, it’s silly to return. it’s still read-able. just surprising.",0.39075987157469827,0.3559125766861077,0.3353000227976733
+2794253,order_delivery,"Says “arriving today” under one tab, then “arriving tomorrow” once you click it",0.7098010848118531,0.6654129884415274,0.6432923292687758
+438843,return_refund,Will you not help me for refund of my money from Amazon. Details clear in the image.,0.5143722334431965,0.4500353581607257,0.401207533291615
+2532194,general_feedback,Bizarre. Thank you for your response.,0.7408870228924479,0.7110313674162914,0.6481644209082031
+312115,order_delivery,Nobody attempted yet this msg... Again & again! Well I have to stop ordering from amazon till i get delivery assurance. Can't go on forever,0.5934241570091949,0.3926576604090622,0.33992263026866265
+926293,order_delivery,"sold through Amazon EU delivery due Thursday Notified of attempted delivery, they lied, again Friday, but had not, I have cctv to prove.",0.473245080930103,0.473245080930103,0.473245080930103
+2905001,general_feedback,Ok thanks for your help.,1.0,1.0,1.0
+384159,customer_service,Kindly check this I had fill a form,0.7036363836661828,0.6683460282303978,0.6399405110464014
+1221830,return_refund,405-5346082-8912369 It's an my product id... I don't need cheque I need refund my money back in my bank account ....,0.3802847360368184,0.3621945036383672,0.35664732538421395
+522470,customer_service,do you need a photo for more help with figureing what im talking about?,0.6807266243023433,0.44352652981185076,0.3935322769769333
+1800828,order_delivery,Haven’t received any email from them and was hoping either to cancel or review the order but all this is not available now,0.5247872341418776,0.5247872341418776,0.5247872341418776
+2826422,customer_service,Amazon hub seized my US Mail and put it in the Hub at 8800 N IH-35. It was not an Amazon shipment or any vendor Amazon fronts for. It was a homemade birthday gift from a friend. I cannot get it from the Hub. This seems to me a violation of 18 USC sec. 1701.,0.4539378703588939,0.36941174315262604,0.33054144821728115
+2452872,general_feedback,U guys r just making people fool u r guys like big time scammers,0.410297192258639,0.37173995189728104,0.3356532296305505
+1427941,customer_service,"Their twitter and facebook are listed, but I do not see any other way to contact them, which is why I took to twitter.",0.4563554914499238,0.4563554914499239,0.43281053402662195
+2335831,order_delivery,I am beyond that at the moment. All I want is my package -.- IT'S BEEN TWO WEEKS!,0.37166278456386076,0.35195644801984693,0.34330478929513175
+2216888,return_refund,You say this line and you ask me to return that item... then wait for 3-5 days for refund and then re order... I'm fed up of listening this bullshit . It's your mistake that you took 11 days and did nothing. I'm not gonna wait more.,0.3152457735474458,0.2731829267649769,0.25900352396212123
+269482,product_technical,the troubleshooting attempts have been a complete fail !! My firestick is zapped out,0.404551293006535,0.33155740010056384,0.30173945854325074
+2962751,return_refund,"Yeah, I tired no help. They just keep saying that we promise it will be the right one next time. And well, it was wrong again. Seem like I am just a test subject so amazon can get their items correct. Very disappointed at what has become of",0.2339298225211569,0.22934260874872536,0.21982142271391564
+2184657,customer_service,Um i did that and it just led me to contact the seller again which the seller isn’t messaging back is there a customer service number??? Just wanna know how i can either get refunded or my order?,0.3355766854544743,0.331613527540183,0.3240464007936431
+182573,account_login,clicked forgot password and didn't pass security qs (despite all answers being correct!) and now i am locked out.,0.32711837286606726,0.30943006257199995,0.28619145940735774
+2766393,order_delivery,"DISPATCHING SOON. CANCELLATION ISN'T GUARANTEED. It's the fact you tell me the item will come on one day and then actually it won't, so why lie?",0.2836147982930247,0.2585916888156046,0.24970082434775884
+1055245,return_refund,"I cancelled but no refund was offered as my previous whinge was ignored. It's a pretty skanky way to get new customers, don't you think?",0.4170503863782601,0.3474917465998957,0.3332152490382541
+2110292,customer_service,"Was on the phone 35 minutes, no help",0.4632370594065027,0.40104435599935795,0.369893969263713
+1134984,customer_service,We have not had any help from just lies and excuses,0.4354990307477557,0.3726488213678036,0.33914121046121004
+2934371,general_feedback,Sold by AOKII Direct Store and Fulfilled by Amazon.,0.7786015639740402,0.7786015639740403,0.7414570334845775
